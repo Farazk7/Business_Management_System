@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2c5691f-ea32-4fd1-807a-ca250f27d85f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/controllers/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/controllers/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/entities/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/entities/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/entities/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/entities/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/business/loginCredentials/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/business/loginCredentials/UserLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/BusinessProjectApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/BusinessProjectApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/Exceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/basiclogics/Logic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/basiclogics/Logic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/controllers/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/controllers/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/controllers/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/controllers/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/entities/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/entities/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/loginCredentials/AdminLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/loginCredentials/AdminLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/loginCredentials/UserLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/loginCredentials/UserLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/AdminRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/repositories/AdminRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/repositories/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/repositories/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/repositories/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/repositories/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/AdminServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/services/AdminServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/OrderServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/services/OrderServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/ProductServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/services/ProductServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/business/services/UserServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/business/services/UserServices.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2f3jYmiHAHMNOiVFY5jj9DDwQja" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BusinessProjectApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/FARAZ/Desktop/Intellij Workspace/Ashwani_Springboot_Project/Spring-Boot/Business_Management_Project",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BusinessProjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.business.BusinessProjectApplication" />
+      <module name="BusinessProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Business_Management_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Business_Management_Project" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BusinessProjectApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2c5691f-ea32-4fd1-807a-ca250f27d85f" name="Changes" comment="" />
+      <created>1713036705809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713036705809</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.HibernateException" package="org.hibernate" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
